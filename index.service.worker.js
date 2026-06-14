@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1781366366|226738334';
+const CACHE_VERSION = '1781451701|374303898';
 /** @type {string} */
 const CACHE_PREFIX = 'hakushine-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
